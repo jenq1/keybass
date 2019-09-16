@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am jenq1 on github.
+  * I am jenq (https://keybase.io/jenq) on keybase.
+  * I have a public key ASBVhkgh8T3n3hzj3XgjMw3p-0jVVA7kAkvbzG5gGoNd5wo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012055864821f13de7de1ce3dd7823330de9fb48d5540ee4024bdbcc6e601a835de70a",
+      "host": "keybase.io",
+      "kid": "012055864821f13de7de1ce3dd7823330de9fb48d5540ee4024bdbcc6e601a835de70a",
+      "uid": "9f09a8437e377ec2c6b2e9f5e62ab919",
+      "username": "jenq"
+    },
+    "merkle_root": {
+      "ctime": 1568665097,
+      "hash": "8c5377c06fbfa32c8ff486350690fa2aa56de637ff8c93af0c946d22db7ac00d0746aa58b6cdda9202747d3af3efe84c00900eb08f29f9fcff4e9a96ed757c33",
+      "hash_meta": "ab2f090fb6b3a4f0639f2e8cb8841071856dbf8e57f14b8ce20bd993ce4beb41",
+      "seqno": 7487951
+    },
+    "service": {
+      "entropy": "ycOsLgvMDZycz/wwMVorxCd4",
+      "name": "github",
+      "username": "jenq1"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568665104,
+  "expire_in": 504576000,
+  "prev": "df5468df0bc19242ba4d20a34f9489d903c7f3e9270f5144236163cdeaaeabf1",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASBVhkgh8T3n3hzj3XgjMw3p-0jVVA7kAkvbzG5gGoNd5wo](https://keybase.io/jenq), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVYZIIfE9594c4914IzMN6ftI1VQO5AJL28xuYBqDXecKp3BheWxvYWTESpcCBMQg31Ro3wvBkkK6TSCjT5SJ2QPH8+knD1FEI2Fjzequq/HEIJCxKUraRY4cvFCTX0n2BVvu2MeHcjt1EI/hVUOxnQbsAgHCo3NpZ8RAwprH/Kksf5gC4RHVIDPtkHFM+D2XeqsoPcoTz3WL2ogx2IdHHwcOD6gysPdvSqTn74HZxDKwECwjamFiJbqVC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKhamu3NXoO7mLhkIdYBrh+Pr/l2yQd4dUrE+s7A56x/o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/jenq
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id jenq
+```
